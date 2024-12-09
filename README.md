@@ -5,3 +5,5 @@ heloo
 hfuhuhf
 hi i am namish
 
+this is my first repository
+
